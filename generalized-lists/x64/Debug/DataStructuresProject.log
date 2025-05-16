@@ -1,0 +1,11 @@
+﻿  Constants.cpp
+  DataStructuresProject.cpp
+  List.cpp
+C:\Users\jaime\source\repos\DataStructuresProject\DataStructuresProject\List.cpp(32,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jaime\source\repos\DataStructuresProject\DataStructuresProject\List.cpp(152,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jaime\source\repos\DataStructuresProject\DataStructuresProject\List.cpp(291,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jaime\source\repos\DataStructuresProject\DataStructuresProject\List.cpp(295,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jaime\source\repos\DataStructuresProject\DataStructuresProject\List.cpp(296,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Node.cpp
+  Generating Code...
+  DataStructuresProject.vcxproj -> C:\Users\jaime\source\repos\DataStructuresProject\x64\Debug\DataStructuresProject.exe
