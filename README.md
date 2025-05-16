@@ -1,8 +1,9 @@
 
-Generalized List Polynomial Processor
+# Generalized List Polynomial Processor
+
 A C++ implementation of generalized lists for recursive traversal and polynomial representation from matrix input.
 
-📖 Description
+📖 ## Description
 This project demonstrates the use of generalized lists (nested, recursive data structures) to represent polynomials. Given a matrix of coefficients in a text file, the program:
 
 Converts each row of the matrix into a polynomial term.
