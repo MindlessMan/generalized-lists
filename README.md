@@ -12,3 +12,4 @@ Constructs a generalized list to hierarchically organize terms.
 
 Recursively traverses the list to print or evaluate the polynomial.
 
+![Program image](./generalized-lists/images/data_structures_1.png)
